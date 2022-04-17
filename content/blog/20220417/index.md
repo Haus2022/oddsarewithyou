@@ -5,14 +5,18 @@ excerpt: Studies of first three 5 min bars
 date: 2022-04-17
 author:
 categories:
-- Study
--
--
--
+- Studies 
+- 
+tags:
+- SP500 
+- E-Mini 
+tags:
 draft: false
-layout: single-series
-weight: 17
+layout: single-sidebar
+weight: 1
 ---
+
+
 
 ### Studies of first three 5 min bars
 

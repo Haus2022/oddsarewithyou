@@ -1,15 +1,13 @@
 ---
-Title: April 17,2022
+Title: E-mini SP500 Study
 subtitle: 
 excerpt: Studies of first three 5 min bars
 date: 2022-04-17
 author:
 categories:
 - Studies 
-- 
-tags:
 - SP500 
-- E-Mini 
+- E-Mini
 tags:
 draft: false
 layout: single-sidebar
@@ -22,6 +20,7 @@ weight: 1
 
 
 **Data:** CQG<br>
+**Product** E-mini SP500 <br>
 **Years:** 2009-2021<br>
 
 _**NOTE:**_ Data unavailable for 03/09/2020, 03/12/2020, 03/16/2020 <br>

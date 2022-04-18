@@ -21,7 +21,7 @@ weight: 1
 
 
 **Product** E-mini SP500 <br>
-**Years:** 2009-2021<br>
+**Years:** 2010-2021<br>
 
 _**NOTE:**_ Data unavailable for 03/09/2020, 03/12/2020, 03/16/2020 <br>
 

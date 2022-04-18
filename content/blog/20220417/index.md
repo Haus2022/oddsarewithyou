@@ -19,7 +19,7 @@ weight: 1
 ### Studies of first three 5 min bars
 
 
-**Data:** CQG<br>
+
 **Product** E-mini SP500 <br>
 **Years:** 2009-2021<br>
 

@@ -4,7 +4,7 @@ languageCode = "en"
 title = ""
 author = "Chart Share"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = "G-C825GZP1BJ"
+googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -174,10 +174,9 @@ enableEmoji = true
   [privacy.disqus]
     disable = true
   [privacy.googleAnalytics]
-    disable = false
-    anonymizeIP = false
-    respectDoNotTrack = false
-    useSessionStorage: false
+    disable = true
+    anonymizeIP = true
+    respectDoNotTrack = true
   [privacy.instagram]
     disable = true
     simple = true
